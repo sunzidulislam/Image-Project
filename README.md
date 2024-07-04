@@ -39,13 +39,7 @@ This project involves the detection and identification of playing cards from an 
 - Combine the best rank and suit matches to identify the card.
 
 ## Input & Output Images
-![Inputimage](https://github.com/sunzidulislam/Image-Project/assets/60359567/61a1e306-3414-4cf4-8704-917c38a78b8c)
-![Preprocessing](https://github.com/sunzidulislam/Image-Project/assets/60359567/5a4e9333-4270-4acf-9331-5773ea14cfa3)
-![Thresholding](https://github.com/sunzidulislam/Image-Project/assets/60359567/18dfc421-f6c6-40d5-8841-9b9446a3cf7d)
-![Contour Detection](https://github.com/sunzidulislam/Image-Project/assets/60359567/4ed25a47-39cb-4328-895c-c3341011f3bb)
-![Rank Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/28435b4d-17de-42b9-a9b7-ed2de70f3ea2)
-![Suit Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/483d9e87-38be-4664-a998-12db7dc3b85f)
-![Final Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/cc59651d-de15-44ab-90c3-c35dc6efe716)
+![Inputimage](https://github.com/sunzidulislam/Image-Project/assets/60359567/61a1e306-3414-4cf4-8704-917c38a78b8c) ![Preprocessing](https://github.com/sunzidulislam/Image-Project/assets/60359567/5a4e9333-4270-4acf-9331-5773ea14cfa3) ![Thresholding](https://github.com/sunzidulislam/Image-Project/assets/60359567/18dfc421-f6c6-40d5-8841-9b9446a3cf7d) ![Contour Detection](https://github.com/sunzidulislam/Image-Project/assets/60359567/4ed25a47-39cb-4328-895c-c3341011f3bb) ![Rank Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/28435b4d-17de-42b9-a9b7-ed2de70f3ea2) ![Suit Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/483d9e87-38be-4664-a998-12db7dc3b85f) ![Final Image](https://github.com/sunzidulislam/Image-Project/assets/60359567/cc59651d-de15-44ab-90c3-c35dc6efe716)
 
 ## Results
 
